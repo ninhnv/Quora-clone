@@ -1,0 +1,147 @@
+/* Status Update Module CSS */
+.status_update {
+margin:0 10px;
+}
+
+.error_message {
+padding:10px;
+margin:5px 0 0 0;
+color:#B50220;
+border:1px solid #C7C78E;
+background:#FFFFD1;
+}
+.user_level {
+color:#478302;
+}
+.status_clear {
+clear:both;
+}
+.status_search {
+
+}
+.status_search h4 {}
+.status_search_title {
+margin: 10px 0pt;
+color:#4270BC;
+}
+.status_search_form {
+margin-bottom:15px;
+}
+#status_search {
+
+}
+.status_search_noresults {
+font-weight:bold;
+}
+.status_search_input {
+
+}
+.status_search_submission {
+
+}
+
+.status_submit {
+margin: 10px 0px;
+}
+.status_submit_title h4 {}
+.status_submit_title {
+margin: 10px 0pt;
+color:#4270BC;
+}
+.status_submit_form {
+
+}
+.status_submit_input {
+}
+.status_submit_submission {
+width: 100px;
+height:54px;
+}
+@-moz-document url-prefix() {
+	/* Mozilla Firefox Tweaks */
+    .status_submit_submission {
+        height:71px;
+    }
+}
+.status_friend_updates {
+
+}
+.status_friend_updates_title {
+margin: 10px 0pt;
+color:#4270BC;
+font-size: 14px;
+}
+.status_friend_updates_title h4 {
+}
+.status_message_content_wrapper{
+
+}
+.status_message_wrapper{
+margin: 0px 0px 15px 0;
+}
+.status_message_tools {
+margin: 10px 10px 0 0;
+float: right;
+font-size:0.8em;
+}
+.status_message_stats {
+    background-color: #F7F7F9;
+    border: 1px solid #E1E1E8;
+	border-radius: 4px 4px 0px 0px;
+    padding: 6px 7px;
+}
+.status_message_stats a{
+text-decoration:none;
+}
+.status_message_username {
+float:left;
+margin-right:10px;
+font-weight:bold;
+}
+.status_message_avatar {
+margin: 0pt 5px 0pt 0pt;
+float: left;
+border:0;
+}
+.status_message_time {
+font-size:0.8em;
+float:left;
+margin-top:3px;	
+}
+.status_message_content {
+    background-color: #FFFFFF;
+    border-right: 1px solid #DDDDDD;
+	border-bottom: 1px solid #DDDDDD;
+	border-left: 1px solid #DDDDDD;
+    border-radius: 0px 0px 4px 4px;
+    padding: 12px 16px 12px;
+    position: relative;
+}
+.status_reply {
+margin: 10px;
+padding: 0pt;
+}
+.status_reply h4{
+
+}
+.status_reply_form {
+margin: 10px;
+padding: 0pt;
+}
+.status_reply_textarea {
+}
+.status_reply_submit {
+}
+
+/* Settings Page */
+.user_profile_status_settings {
+margin:15px 0 5px 0;
+}
+
+.status_label {
+display: block;
+}
+.friends_status_list {
+margin:0px 0px 0px 35px;
+}
+
